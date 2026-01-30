@@ -29,3 +29,69 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 </div>
+<div align="center">
+  
+## 📈 Mes Stats GitHub
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=orace18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orace18&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=orace18&theme=tokyonight" alt="streak stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orace18&theme=tokyo-night&hide_border=true" />
+</div>
+
+## 🌟 Projets en Vedette
+
+<div align="center">
+
+<a href="https://github.com/orace18/projet1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orace18&repo=projet1&theme=tokyonight" />
+</a>
+<a href="https://github.com/orace18/projet2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orace18&repo=projet2&theme=tokyonight" />
+</a>
+
+</div>
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        with:
+          github_user_name: orace18
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/orace18/orace18/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+  ## 🚀 Mon Parcours Professionnel
+```mermaid
+gantt
+    title Expériences Professionnelles
+    dateFormat  YYYY-MM
+    section Entreprises
+    WonderTeck           :2020-01, 2020-06
+    TechoBenin          :2020-07, 2021-03
+    AFT Group           :2021-04, 2021-12
+    SICMA & Associés    :2022-01, 2022-08
+    CIBE AFRICA         :2022-09, 2023-03
+    Gemini & Co         :2023-04, 2023-11
+    ValiisTech          :2023-12, 2024-06
+    HE System 🔥        :2024-07, 2026-01
+```
