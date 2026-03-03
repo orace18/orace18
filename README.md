@@ -37,8 +37,6 @@ public class OraceEDJO {
 
     Map<String, String[]> technologies = Map.of(
         "backend",    new String[]{"Spring Boot", "Spring Cloud", "Spring Security", "NestJS", "FastAPI"},
-        "mobile",     new String[]{"Flutter", "Android (Java)"},
-        "frontEnd",   new String[]{"Angular", "HTML & CSS"},
         "databases",  new String[]{"PostgreSQL", "MongoDB", "MySQL", "Firebase"},
         "ai_ml",      new String[]{"Machine Learning", "Deep Learning", "RILContour"},
         "devOps",     new String[]{"Docker", "Kubernetes", "Git", "GitLab", "AWS"}
@@ -179,8 +177,8 @@ public class CurrentActivities {
 
 | 🎓 Diplôme | 🏫 Établissement | 📅 Période |
 |:---:|:---:|:---:|
-| **Master en Informatique & Télécommunication** | INSTI — Lokossa | 2020 – 2025 |
-| **BAC-F3 & DTI** | Lycée Technique de Kandi | 2017 – 2020 |
+| **Master en Informatique & Télécommunication** | INSTI — Lokossa | 2017 – 2022 |
+
 
 </div>
 
