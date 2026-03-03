@@ -179,7 +179,7 @@ public class CurrentActivities {
 
 | 🎓 Diplôme | 🏫 Établissement | 📅 Période |
 |:---:|:---:|:---:|
-| **Licence en Informatique & Télécommunication** | INSTI — Lokossa | 2021 – 2023 |
+| **Master en Informatique & Télécommunication** | INSTI — Lokossa | 2020 – 2025 |
 | **BAC-F3 & DTI** | Lycée Technique de Kandi | 2017 – 2020 |
 
 </div>
