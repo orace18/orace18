@@ -121,7 +121,6 @@ public class OraceEDJO {
 |:---:|:---:|:---:|:---:|
 | **HE System** | Backend Java Developer | Sept 2025 - En cours | Spring Boot, Spring Security, JWT, PostgreSQL |
 | **WonderTeck** | Backend Developer | Déc 2024 - Mai 2025 | NestJS, TypeScript, PostgreSQL, TypeORM |
-| **SICMA & Associés** | Mobile Developer | Août 2024 - Oct 2024 | Java, Android SDK, API REST |
 | **VallisTech** | Backend & Data Scientist | Sept 2023 - Juin 2024 | Spring Boot, JWT, PostgreSQL, ML/DL |
 
 </div>
