@@ -28,7 +28,7 @@
 public class OraceEDJO {
 
     String name       = "Orace EDJO";
-    String location   = "Abomey-Calavi, Bénin 🇧🇯";
+    String location   = "Cotonou, Bénin 🇧🇯";
     String role       = "Développeur Backend Java / Spring Boot";
     String experience = "3+ ans d'expérience";
     String[] languages = {"French", "English"};
