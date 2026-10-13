@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Orace%20EDJO&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Java%20%2F%20Spring%20Boot%20%7C%20Microservices%20%7C%20Paiement%20num%C3%A9rique&descAlignY=55&descSize=20" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey!+Je+suis+Orace+%F0%9F%91%8B;D%C3%A9veloppeur+Backend+Java+%2F+Spring+Boot+%F0%9F%9A%80;Microservices+%26+APIs+REST+%E2%9A%A1;Paiement+num%C3%A9rique+s%C3%A9curis%C3%A9+%F0%9F%92%B3;Let's+build+amazing+things!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey!+Je+suis+Orace+%F0%9F%91%8B;D%C3%A9veloppeur+Backend+Fullstack+Angular+Spring+Boot+%F0%9F%9A%80;Microservices+%26+APIs+REST+%E2%9A%A1;Paiement+num%C3%A9rique+s%C3%A9curis%C3%A9+%F0%9F%92%B3;Let's+build+amazing+things!" alt="Typing SVG" />
 
 <br/>
 
@@ -177,7 +177,7 @@ public class CurrentActivities {
 
 | 🎓 Diplôme | 🏫 Établissement | 📅 Période |
 |:---:|:---:|:---:|
-| **Master en Informatique & Télécommunication** | INSTI — Lokossa | 2017 – 2022 |
+| **Licence en Informatique & Télécommunication** | INSTI — Lokossa | 2021 – 2023 |
 
 
 </div>
